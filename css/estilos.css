@@ -45,3 +45,6 @@ body {
   text-align: center;
   text-transform: uppercase;
 }
+#img {
+  width: 100%;
+}
